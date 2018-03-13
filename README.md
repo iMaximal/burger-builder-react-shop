@@ -7,4 +7,16 @@ Make your burger!
 
 Technologies: React 16, Redux, Routes, Axios, Saga, etc.
 
+## Install
 
+````bash
+npm install
+````
+
+## Usage
+
+
+Start:
+````bash
+npm run start
+````
